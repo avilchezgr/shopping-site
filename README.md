@@ -1,6 +1,6 @@
 ## Shopping cart made in React
 
-Shopping Cart with a list of items that the app fetches from an array and display them on the screen, the user can add or remove the items from the cart and see the total price of the purchase.
+Shopping Cart with a list of items that the app fetches from an array and display on the screen, the user can add or remove the items from the cart and see the total price of the purchase.
 
 ![](shopping-site.gif)
 
